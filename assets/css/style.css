@@ -1,0 +1,24 @@
+/*------ General selector-----  */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: blue;
+    height: 100vh;
+
+}
+
+/* ------Utility selector-----  */
+
+/* color zone  */
+:root {
+    --light: #ffffff;
+    --dark: #000000;
+}
+
+/* dimension zone  */
+
+
+/* Container zone  */
+
+form {
+    width: 50%;
+}
