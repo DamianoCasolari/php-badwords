@@ -26,7 +26,7 @@
 </head>
 
 <body class="d-flex justify-content-center align-items-center mt-5">
-   <form class="w-50" action="myScript.php" method="GET">
+   <form class="w-50" action="myScript.php" method="POST">
       <div class="card p-5 bg-dark text-white shadow-lg rounded-5">
          <div class="mb-3">
             <label for="text" class="form-label fw-bold">Write the text to correct</label>
